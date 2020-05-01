@@ -388,5 +388,5 @@ Pbind(
 ~drain2 = Buffer.read(s, "C:/Users/...wav");
 ~drain2.play;
 
-~drain3 = Buffer.read(s, "C:/Users/Girls Who Code/Downloads/Sink draining sound effect water down the plug hole sounds.wav");
+~drain3 = Buffer.read(s, "C:/Users/....wav");
 ~drain3.play;
