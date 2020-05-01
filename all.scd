@@ -326,7 +326,8 @@ Pbind(
 
 //melody goes down like water swirls the drain
 
-~drain1 = Buffer.read(s, "C:/Users/Girls Who Code/Downloads/less than giant sucking sound (1).wav");
+//Uses local sound files
+~drain1 = Buffer.read(s, "C:/Users/.....");
 
 (
 SynthDef("drain-1",
@@ -384,7 +385,7 @@ Pbind(
 ~buf1.duration;
 ~buf1.sampleRate;
 
-~drain2 = Buffer.read(s, "C:/Users/Girls Who Code/Downloads/less than giant sucking sound (2).wav");
+~drain2 = Buffer.read(s, "C:/Users/...wav");
 ~drain2.play;
 
 ~drain3 = Buffer.read(s, "C:/Users/Girls Who Code/Downloads/Sink draining sound effect water down the plug hole sounds.wav");
