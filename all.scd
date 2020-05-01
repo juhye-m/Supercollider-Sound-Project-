@@ -41,7 +41,7 @@ Pspawner({arg mcherry;
 
 
 
-NEXT ONE
+//NEXT ONE
 //trampoline jump
 //"A falsetto "oo-whoop" that is immediately followed by an identical "woo" down"
 
@@ -118,7 +118,7 @@ Pbind(
 
 
 
-//ignore below
+//Scratchwork
 
 SynthDef("trianglewavebells",{
 	arg out = 0, pan = 0.0, freq = 440, amp = 1.0, gate = 1, att = 0.01, dec = 0.1, sus = 1, rel = 0.5, lforate = 10, lfowidth = 0.0, cutoff = 100, rq = 0.5;
@@ -136,7 +136,7 @@ SynthDef("trianglewavebells",{
 }).add;
 
 
-NEXT
+//NEXT
 //WATER
 //"A deep, lightly pulsing hum with a pure, clear ringing over the top. Some higher plinking notes as well."
 
@@ -321,7 +321,7 @@ Pbind(
 
 
 
-next
+//NEXT
 //oblivion - a sucking sound, like water going down a drain.
 
 //melody goes down like water swirls the drain
